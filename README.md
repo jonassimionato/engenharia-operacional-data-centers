@@ -13,8 +13,8 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 
 ### 📗 Volume 2: A Fortaleza – Infraestrutura e Sistemas Críticos
 *Mergulho técnico nos sistemas físicos: Tiers, Energia, Climatização e Incêndio.*
-* [Baixar Volume 2 (PDF)](link-do-seu-arquivo-volume2) 👈 *Cole o link aqui*
-* [Modelo de Checklist (Word)](link-do-seu-arquivo-volume2)
+* [Baixar Volume 2 (PDF)](https://github.com/jonassimionato/biblioteca-operacional-data-centers/blob/main/Biblioteca_Operacional_Volume_2_Resili%C3%AAncia_El%C3%A9trica_e_Backup.pdf)
+* [Modelo de Checklist (Word)](https://github.com/jonassimionato/biblioteca-operacional-data-centers/blob/main/Modelo_Checklist_Editavel.docx)
   
 ---
 
