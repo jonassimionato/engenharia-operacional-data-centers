@@ -22,7 +22,6 @@ O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.*
 
 ❄️ Volume 3: Ciclo Térmico (Climatização e Ar) 🆕
 Ciência do transporte de calor, gestão de Delta T, Psicrometria e Redundância Mecânica.
-
 [Baixar Volume 3 (PDF)](./Biblioteca_Operacional_Volume3_Ciclo_Termico.pdf)
 
 ---
