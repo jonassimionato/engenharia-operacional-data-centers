@@ -24,6 +24,9 @@ O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.*
 Ciência do transporte de calor, gestão de Delta T, Psicrometria e Redundância Mecânica.
 [Baixar Volume 3 (PDF)](./Biblioteca_Operacional_Volume3_Ciclo_Termico.pdf)
 
+🔗 Volume 4: Conectividade e Inventário
+Normatização de cabeamento estruturado, higiene óptica, identificação TIA-606-C e gestão de ativos (Gêmeo Digital).
+[Baixar Volume 4 (PDF)] (./)
 ---
 
 🛠️ Ferramentas Práticas Inclusas
