@@ -7,20 +7,20 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 📚 Volumes Disponíveis
 
 📘 Volume 1: O Sentido da Operação
-*Focado em mentalidade, postura e protocolos de vigilância.*
+*Focado em mentalidade, postura e protocolos de vigilância.
 [Baixar Volume 1 (PDF)](./Biblioteca_Operacional_Volume_1_O_Sentido_da_Operacao.pdf)
 [Modelo de Logbook (Word)](./Modelo_Diario_de_Bordo_Logbook_Editavel.docx)
 
 📗 Volume 2: A Fortaleza – Infraestrutura e Sistemas Críticos
-*Mergulho técnico nos sistemas físicos: Tiers, Energia, Climatização e Incêndio.*
+*Mergulho técnico nos sistemas físicos: Tiers, Energia, Climatização e Incêndio.
 [Baixar Volume 2 (PDF)](./Biblioteca_Operacional_Volume_2_Resiliência_Elétrica_e_Backup.pdf)
 [Modelo de Checklist (Word)](./Modelo_Checklist_Editavel.docx)
 
 📑 Volume 2.2: Governança e Inteligência de Ativos (White Paper)
-O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.*
+O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.
 [Baixar Volume 2.2 (PDF)](./Governança_e_Inteligência_de_Ativos–Volume2.2.pdf)
 
-❄️ Volume 3: Ciclo Térmico (Climatização e Ar) 🆕
+❄️ Volume 3: Ciclo Térmico (Climatização e Ar) 
 Ciência do transporte de calor, gestão de Delta T, Psicrometria e Redundância Mecânica.
 [Baixar Volume 3 (PDF)](./Biblioteca_Operacional_Volume3_Ciclo_Termico.pdf)
 
