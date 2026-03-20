@@ -9,6 +9,7 @@ Repositório oficial da **Biblioteca Operacional de Data Centers**. Este projeto
 📘 Volume 1: O Sentido da Operação
 *Focado em mentalidade, postura e protocolos de vigilância.
 [Baixar Volume 1 (PDF)](./Biblioteca_Operacional_Volume_1_O_Sentido_da_Operacao.pdf)
+
 [Modelo de Logbook (Word)](./Modelo_Diario_de_Bordo_Logbook_Editavel.docx)
 
 📗 Volume 2: A Fortaleza – Infraestrutura e Sistemas Críticos
