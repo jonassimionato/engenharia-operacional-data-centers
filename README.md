@@ -30,7 +30,7 @@ O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.
 
 🛡️ Volume 5: Blindagem e Segurança
 *Focado na proteção física da infraestrutura: Controle de Acesso, CFTV, Barreiras Perimetrais e Segurança do site.
-[Baixar Volume 5 (PDF)](./Biblioteca_Operacional_Volume_ 5_Blindagem_e_Seguranca)
+[Baixar Volume 5 (PDF)](./Biblioteca_Operacional_Volume_ 5_Blindagem_e_Seguranca.pdf)
 ---
 
 🛠️ Ferramentas Práticas Inclusas
