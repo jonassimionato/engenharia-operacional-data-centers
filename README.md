@@ -21,13 +21,16 @@ O elo estratégico entre a telemetria de campo e a gestão de ROI/Performance.
 [Baixar Volume 2.2 (PDF)](./Governança_e_Inteligência_de_Ativos–Volume2.2.pdf)
 
 ❄️ Volume 3: Ciclo Térmico (Climatização e Ar) 
-Ciência do transporte de calor, gestão de Delta T, Psicrometria e Redundância Mecânica.
+*Ciência do transporte de calor, gestão de Delta T, Psicrometria e Redundância Mecânica.
 [Baixar Volume 3 (PDF)](./Biblioteca_Operacional_Volume3_Ciclo_Termico.pdf)
 
 🔗 Volume 4: Conectividade e Inventário
-Normatização de cabeamento estruturado, higiene óptica, identificação TIA-606-C e gestão de ativos (Gêmeo digital).
+*Normatização de cabeamento estruturado, higiene óptica, identificação TIA-606-C e gestão de ativos (Gêmeo digital).
 [Baixar Volume 4 (PDF)](./Biblioteca_Operacional_Volume4_Conectividade_e_Inventario.pdf)
 
+🛡️ Volume 5: Blindagem e Segurança
+*Focado na proteção física da infraestrutura: Controle de Acesso, CFTV, Barreiras Perimetrais e Segurança do site.
+[Baixar Volume 5 (PDF)](./Biblioteca_Operacional_Volume_ 5_Blindagem_e_Seguranca)
 ---
 
 🛠️ Ferramentas Práticas Inclusas
